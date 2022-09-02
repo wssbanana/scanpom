@@ -1,7 +1,7 @@
 {
   "scanSettings": {
-    "configMode": "AUTO",
-    "configExternalURL": "",
+    "configMode": "EXTERNAL",
+    "configExternalURL": "https://wssbanana.github.io/whitesource-configuration/whitesource.config",
     "projectToken": "",
     "baseBranches": []
   },
